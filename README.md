@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @zulfkhar00, Ex - Meta, Yandex SWE Intern
-- 👀 I’m interested in Software Engineering, ML (GAN, NLP), Metaverse, iOS/Flutter Dev
-- 🌱 I’m currently learning Blockchain Engineering
+- 👋 Hi, I’m @zulfkhar00, SWE at Bytedance, Ex - Meta, Yandex
+- 👀 I’m interested in Backend, Distributed Systems, ML (GAN, NLP), Mobile Dev, Buildpacks
 - 📫 How to reach me: zzm213@nyu.edu
 
 <!---
